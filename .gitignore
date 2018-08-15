@@ -5,6 +5,7 @@
 .idea/rollup.iml
 .idea/workspace.xml
 package.json
+node_modules/
 node_modules/arr-diff/LICENSE
 node_modules/arr-diff/README.md
 node_modules/arr-diff/index.js
