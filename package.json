@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/whjin/rollup/issues"
   },
-  "homepage": "https://github.com/whjin/rollup#readme"
+  "homepage": "https://github.com/whjin/rollup#readme",
+  "devDependencies": {
+    "rollup-plugin-json": "^3.0.0"
+  }
 }
