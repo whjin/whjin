@@ -1,9 +1,10 @@
   <div>
-    <div style="display: flex;justify-content: space-around;align-items: center;height: 240px;">
+    <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact" width="350"
-        height="100%" />
+        height="240" />
       <img src="https://github-readme-stats.vercel.app/api?username=whjin&theme=radical&show_icons=true" width="450"
-        height="100%" />
+        height="240" />
     </div>
-    <img src="https://github-profile-trophy.vercel.app/?username=whjin&theme=flat&column=7" align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=whjin&theme=flat&column=7" height="180"
+      align="center" />
   </div>
