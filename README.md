@@ -1,9 +1,7 @@
   <div>
     <div style="display: flex;justify-content: space-around;align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact" width="350" height="160" />
-      <img src="https://github-readme-stats.vercel.app/api?username=whjin&theme=radical&show_icons=true" width="450"
-        height="160" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact" width="350" />
+      <img src="https://github-readme-stats.vercel.app/api?username=whjin&theme=radical&show_icons=true" width="450" />
     </div>
-    <img src="https://github-profile-trophy.vercel.app/?username=whjin&theme=flat&column=7" height="160"
-      align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=whjin&theme=flat&column=7" align="center" />
   </div>
