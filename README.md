@@ -2,4 +2,4 @@
   height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact" width="382"
   height="180" />
-<img src="https://github-profile-trophy.vercel.app/?username=whjin&theme=flat&column=7" width="1080" height="160" />
+<img src="https://github-profile-trophy.vercel.app/?username=whjin&theme=flat&column=7" width="1920" height="160" />
