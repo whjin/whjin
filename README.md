@@ -8,6 +8,6 @@
   <a href="https://github.com/whjin/docs">
     <img align="left"
       src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical"
-      width="50%" style="float: left;/>
+      width="50%" style="float: right;/>
   </a>
 </main>
