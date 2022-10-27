@@ -8,3 +8,4 @@
     src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical"
     width="50%" height="180px" />
 </a>
+<p>这是一个文本</p>
