@@ -1,11 +1,14 @@
-<a href="https://github.com/whjin/docs">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact&theme=radical"
-    width="50%" height="180px" />
-</a>
-<a href="https://github.com/whjin/docs">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical"
-    width="50%" height="180px" />
-</a>
-<p>这是一个文本</p>
+<main style="display: flex;justify-content: center;">
+  <p>
+    <a href="https://github.com/whjin/docs">
+      <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact&theme=radical" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/whjin/docs">
+      <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical" />
+    </a>
+  </p>
+</main>
