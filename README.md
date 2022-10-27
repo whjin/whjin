@@ -1,6 +1,6 @@
 <a href="https://github.com/whjin/docs">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical" style="width: 50%;height:200px;"/>
+        src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical" style="width: 48%;height:230px;"/>
 </a>
 <a href="https://github.com/whjin/docs">
     <img
