@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true)](https://github.com/whjin)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical)](https://github.com/whjin)
