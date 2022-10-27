@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical)](https://github.com/whjin)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical&repo=docs,webrtc-node-server,webrtc-client,whjin.github.io)](https://github.com/whjin)
