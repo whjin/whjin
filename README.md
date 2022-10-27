@@ -1,2 +1,2 @@
 [![WHJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical)](https://github.com/whjin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whjin)](https://github.com/whjin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact&theme=radical)](https://github.com/whjin)
