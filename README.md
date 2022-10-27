@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
 
-- 🔭 I’m currently working on [docs](https://github.com/whjin/docs)
+- 🔭 I’m currently working on [InfiniteVision](https://github.com/whuajin)
 
-- 🌱 I’m currently learning **WebGLobal, Three.js**
+- 🌱 I’m currently learning **WebGLobal, Three.js, ECharts, Canvas**
 
-- 👯 I’m looking to collaborate on [docs](https://github.com/whjin/docs)
+- 👯 I’m looking to collaborate on [node.js](https://github.com/nodejs/node)
 
 - 🤝 I’m looking for help with [docs](https://github.com/whjin/docs)
 
@@ -17,17 +17,18 @@
 
 - 📝 I regularly write articles on [https://github.com/whjin/docs](https://github.com/whjin/docs)
 
-- 💬 Ask me about **vue, node, webrtc and**
+- 💬 Ask me about **vue, react, webrtc and node.js**
 
 - 📫 How to reach me **wuhuajin09@163.com**
 
 - 📄 Know about my experiences [https://whjin.github.io/resume](https://whjin.github.io/resume)
 
-- ⚡ Fun fact **poem**
+- ⚡ Fun fact **https://whjin.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/whjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/whjin" height="30" width="40" /></a>
+<a href="https://dev.to/https://whjin.github.io/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://whjin.github.io/blog/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://whjin.github.io/resume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://whjin.github.io/resume/" height="30" width="40" /></a>
 <a href="https://fb.com/https://weibo.com/u/1710899102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://weibo.com/u/1710899102" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://segmentfault.com/u/whjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://segmentfault.com/u/whjin" height="30" width="40" /></a>
