@@ -27,12 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/whjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/whjin" height="30" width="40" /></a>
-<a href="https://dev.to/https://whjin.github.io/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://whjin.github.io/blog/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://whjin.github.io/resume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://whjin.github.io/resume/" height="30" width="40" /></a>
-<a href="https://fb.com/https://weibo.com/u/1710899102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://weibo.com/u/1710899102" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://segmentfault.com/u/whjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://segmentfault.com/u/whjin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.cn/u/whjin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.cn/u/whjin/" height="30" width="40" /></a>
+<a href="https://codepen.io/whjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/whjin" height="30" width="40" /></a>
+<a href="https://whjin.github.io/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://whjin.github.io/blog/" height="30" width="40" /></a>
+<a href="https://whjin.github.io/resume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://whjin.github.io/resume/" height="30" width="40" /></a>
+<a href="https://weibo.com/u/1710899102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://weibo.com/u/1710899102" height="30" width="40" /></a>
+<a href="https://segmentfault.com/u/whjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://segmentfault.com/u/whjin" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/whjin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.cn/u/whjin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
