@@ -1,5 +1,1 @@
-- [https://github.com/whjin/docs](https://github.com/whjin/docs)
-- [https://whjin.github.io/blog](https://whjin.github.io/blog)
-- [https://whjin.github.io](https://whjin.github.io)
-- [SegmentFault](https://segmentfault.com/u/whjin)
-- [稀土掘金](https://juejin.cn/user/1697301681934519)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=whjin&theme=dark)](https://git.io/streak-stats)
