@@ -1,8 +1,8 @@
 <a href="https://github.com/whjin/docs">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical" style="width: 50%;"/>
+        src="https://github-readme-stats.vercel.app/api?username=whjin&count_private=true&show_icons=true&theme=radical" width="100%"/>
 </a>
 <a href="https://github.com/whjin/docs">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact&theme=radical"  style="width: 50%;height:200px;"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=whjin&layout=compact&theme=radical"  width="100%"/>
 </a>
