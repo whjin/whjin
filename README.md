@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
 
+<p align="left"> <a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
+
 - 🔭 I’m currently working on [InfiniteVision](https://github.com/whuajin)
 
 - 🌱 I’m currently learning **WebGLobal, Three.js, ECharts, Canvas**
@@ -22,5 +24,3 @@
 - 📄 Know about my experiences [https://whjin.github.io/resume](https://whjin.github.io/resume)
 
 - ⚡ Fun fact **https://whjin.github.io/**
-
-<p align="left"> <a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
