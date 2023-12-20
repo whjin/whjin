@@ -1,9 +1,13 @@
-<h1 align="center">你好, 我是吴华锦</h1>
-<h3 align="center">来自中国的开发工程师</h3>
+<h1 align="center">Hi 👋, I'm WHJIN</h1>
+<h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
 
-[![whjin-github](https://github-readme-stats.vercel.app/api?username=whjin)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
+
+- 🔭 I’m currently working on [InfiniteVision](https://github.com/whuajin)
+
+- 🌱 I’m currently learning **WebGLobal, Three.js, ECharts, Canvas**
 
 - 👯 I’m looking to collaborate on [node.js](https://github.com/nodejs/node)
 
