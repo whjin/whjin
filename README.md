@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm WHJIN</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left" style="position:fixed;left:0;top:0;"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
+<div style="height:30px;display: flex;align-items: center;">
+  <p style="display: flex;position: absolute;"><img
+      src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat"
+      alt="whjin" /> </p>
+  <h3 style="line-height:30px;display: flex;flex:1;justify-content: center;">A passionate frontend developer from China</h3>
+</div>
 
 ![WHJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&show_icons=true&theme=radical)
 
