@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm WHJIN</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
+<p align="left" style="position:fixed;left:0;top:0;"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
 
-<p align="center"> <a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
+![WHJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on [InfiniteVision](https://github.com/whuajin)
 
