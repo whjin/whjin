@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm WHJIN</h1>
+<h3 align="center">A passionate frontend developer from China</h3>
 
-<div style="height:30px;display: flex;align-items: center;">
-  <p style="display: flex;position: absolute;"><img
-      src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat"
-      alt="whjin" /> </p>
-  <h3 style="line-height:30px;display: flex;flex:1;justify-content: center;">A passionate frontend developer from China</h3>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
 
-![WHJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whjin&show_icons=true&theme=radical)
+<p align="left"> <a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
 
-- 🔭 I’m currently working on [InfiniteVision](https://github.com/whuajin)
+- 🔭 I’m currently working on [InfiniteVision](httpzs://github.com/whuajin)
 
 - 🌱 I’m currently learning **WebGLobal, Three.js, ECharts, Canvas**
 
