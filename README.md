@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm WHJIN</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
 
-<p align="left"> <a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
+<p align="left"><a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
 
-- 🔭 I’m currently working on [InfiniteVision](httpzs://github.com/whuajin)
+- 🔭 I’m currently working on [GKTEL](http://www.gktel.com.cn/)
 
-- 🌱 I’m currently learning **WebGLobal, Three.js, ECharts, Canvas**
+- 🌱 I’m currently learning `Flutter`、`Electron`、`Python`、`React`
 
-- 👯 I’m looking to collaborate on [node.js](https://github.com/nodejs/node)
+- 👯 My HomePage at [Blog](https://whjin.github.io/)
 
-- 🤝 I’m looking for help with [docs](https://github.com/whjin/docs)
+- 🤝 My Docs Page at [docs](https://github.com/whjin/docs)
 
-- 👨‍💻 All of my projects are available at [https://github.com/whjin](https://github.com/whjin)
+- 👨‍💻 My Dev Docs at [devDocs](https://github.com/whjin/devDocs)
 
-- 📝 I regularly write articles on [https://github.com/whjin/docs](https://github.com/whjin/docs)
+- 📝 I regularly write articles on [SegmentFault](https://segmentfault.com/blog/whjin)
 
-- 💬 Ask me about **vue, react, webrtc and node.js**
+- 💬 Ask me about `vue`, `react`, `webrtc`, `node` and `socket`
 
-- 📫 How to reach me **wuhuajin09@163.com**
+- 📫 How to reach me [Email](wuhuajin09@163.com)
 
-- 📄 Know about my experiences [https://whjin.github.io/resume](https://whjin.github.io/resume)
+- 📄 Know about my experiences [Github](https://github.com/whjin)
 
-- ⚡ Fun fact **https://whjin.github.io/**
+- ⚡ Fun fact [weibo](https://weibo.com/u/1710899102)
