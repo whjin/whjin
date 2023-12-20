@@ -3,11 +3,9 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /></p>
 
-<p align="left"><a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
+- 🔭 我当前在 [广州市高科通信技术股份有限公司](http://www.gktel.com.cn/)担任前端开发工程师
 
-- 🔭 I’m currently working on [InfiniteVision](https://github.com/whuajin)
-
-- 🌱 I’m currently learning **WebGLobal, Three.js, ECharts, Canvas**
+- 🌱 我工作当中使用`Vue/Vuex/VueRouter`、`React/ReactRouter/Redux`、`UniApp`、`Android Studio`、`Ant Design`、`HBuilderX`、`WebSocket`、`SocketIO`、`ElementUI`、`UmiJS`、`WebRTC`、`NodeJS`、`Docker`、`Nginx`、`MongoDB`、`MySQL`、`Linux`、`Canvas`、`Less`、`Webpack`、`Express`等。
 
 - 👯 I’m looking to collaborate on [node.js](https://github.com/nodejs/node)
 
