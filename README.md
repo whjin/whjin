@@ -5,7 +5,7 @@
 
 <p align="left"><a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
 
-- 🔭 I’m currently working on [GKTEL](http://www.gktel.com.cn/)
+- 🔭 I’m currently working on [InfiniteVision](https://github.com/wuhuajin)
 
 - 🌱 I’m currently learning `Flutter`、`Electron`、`Python`、`React`
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about `vue`, `react`, `webrtc`, `node` and `socket`
 
-- 📫 How to reach me [Email](wuhuajin09@163.com)
+- 📫 How to reach me `wuhuajin09@163.com`
 
 - 📄 Know about my experiences [Github](https://github.com/whjin)
 
