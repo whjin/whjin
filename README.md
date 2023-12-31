@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WHJIN</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
 
 - 🔭 I’m currently working on [InfiniteVision](https://github.com/wuhuajin)
 
