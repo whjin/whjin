@@ -3,8 +3,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin" /> </p>
 
-<p align="left"><a href="https://github.com/whjin"><img src="https://github-profile-trophy.vercel.app/?username=whjin" alt="whjin" /></a> </p>
-
 - 🔭 I’m currently working on [InfiniteVision](https://github.com/wuhuajin)
 
 - 🌱 I’m currently learning `Flutter`、`Electron`、`Python`、`React`
