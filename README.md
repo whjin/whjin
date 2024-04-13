@@ -20,4 +20,4 @@
 
 - 🌱 我正在学习[Flutter](https://flutter.cn/)、[Electron](https://www.electronjs.org/)、[Python](https://www.python.org/)、[React](https://react.dev/)、[Node](https://nodejs.org/)。
 
-- 💬 Ask me about `vue`, `react`, `webrtc`, `node` and `socket`我们可以一起讨论关于[Vue](https://cn.vuejs.org/)、[React](https://react.dev/)、[Node](https://nodejs.org/)、[WebRTC](https://webrtc.org.cn/)、[Socket](https://socket.io/zh-CN/)等技术问题。
+- 💬 我们可以一起讨论关于[Vue](https://cn.vuejs.org/)、[React](https://react.dev/)、[Node](https://nodejs.org/)、[WebRTC](https://webrtc.org.cn/)、[Socket](https://socket.io/zh-CN/)等技术问题。
