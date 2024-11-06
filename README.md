@@ -1,4 +1,4 @@
-<h1 align="center">你好 👋, 我是吴华锦。</h1>
+<h1 align="center">你好 👋 我是吴华锦</h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=whjin&label=Profile%20views&color=0e75b6&style=flat" alt="whjin"/></p>
 
